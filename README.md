@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="./public/assets/images/coffe.svg" height="130px">
+<img src="./public/assets/images/icons8-top-hat-96.png" height="130px">
 
 <b>Coffe Lab<b>
 </h1>
