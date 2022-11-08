@@ -26,4 +26,12 @@ app.listen(8080)
 console.log("Rodando")
 ```
 
+<h1 align="center">
+Terminal:
+</h1>
+
+```
+$ node server
+```
+
 > Version 1
