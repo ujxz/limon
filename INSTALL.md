@@ -1,14 +1,15 @@
 ### [PowerShell Terminal](https://learn.microsoft.com/pt-br/powershell/scripting/overview?view=powershell-7.3)
 
+#### Install .zip
+
+Download using the [GitHub .zip download](https://github.com/Kodaiwya/limon/archive/main.zip) option and unzip them.
+
 #### Install using Git
 
 If you are a git user, you can install the theme by cloning the repo:
 
     $ git clone https://github.com/Kodaiwya/limon.git
 
-#### Install .zip
-
-Download using the [GitHub .zip download](https://github.com/Kodaiwya/limon/archive/main.zip) option and unzip them.
 
 #### Activating theme
 
