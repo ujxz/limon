@@ -2,7 +2,7 @@
   <br>
   <img src="icon.png" width="100px">
   <br>
-  Limon of <a href="https://www.microsoft.com/pt-br/p/windows-terminal/9n0dx20hk701">Terminal Windows PowerShell</a>
+  Limon
   <br>
 </h1>
 
