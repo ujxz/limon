@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-    <a href="">License</a> •
+    <a href="LICENSE">License</a> •
     <a href="INSTALL.md">Install</a>
 </p>
 
