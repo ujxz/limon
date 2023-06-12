@@ -23,6 +23,3 @@
 <p align="center">
     <img src="screenshot.png" width="800px">
 </p>
-
-<h3 align="center">Read the <a href="INSTALL.md">Install.md</a> to install</h3>
-<h3 align="center">Read the <a href="LICENSE">License</a></h3>
